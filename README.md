@@ -1,1 +1,1 @@
-# inventory-mgmt-sys
+# Inventory Management System
